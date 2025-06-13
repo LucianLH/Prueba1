@@ -37,7 +37,7 @@ img {
 }
 
 .FinHeader{
-    background-image: url(Prueba1/img/header-background.jpg);
+    background-image: url(../img/header-background.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -53,3 +53,4 @@ img {
 .FinHeader h2{
     color: gold;
 }
+
