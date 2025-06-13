@@ -56,3 +56,24 @@ img {
     color: gold;
 }
 
+.Productos{
+    background-color: white;
+}
+
+.Vinilo{
+    width: 10rem;
+    height: 25rem;
+    border-color: black;
+}
+
+.Vinilo h3{
+    color: gold;
+    font-size: 8rem;
+}
+
+.Vinilo p{
+    color: black;
+    font-size: 4rem;
+}
+
+
