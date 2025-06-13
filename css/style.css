@@ -1,0 +1,55 @@
+/**General**/
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    font-family: 'Nunito', sans-serif;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+img {
+    max-width: 100%;
+}
+
+.Header{
+    width: 120rem;
+    margin: 0 auto;
+}
+
+.Logo{
+    flex-basis: 10%;
+}
+
+.BarraNav{
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10rem;
+}
+
+.BarraNav a{
+    font-size: 5rem;
+    color: white;
+}
+
+.FinHeader{
+    background-image: url(Prueba1/img/header-background.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+    z-index: 1
+}
+
+.FinHeader h1{
+    color: white;
+}
+
+.FinHeader h2{
+    color: gold;
+}
